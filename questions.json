@@ -1,0 +1,20 @@
+[
+  {"title": "The capital of Israel is", "1": "Tel Aviv", "2": "Haifa", "3": "Jerusalem", "4": "Kfar Saba", "correct": "3"},
+  {"title": "A protocol that is used to assign IP addresses", "1": "DHCP", "2": "UDP", "3": "IPv4", "4": "SSL", "correct": "1"},
+  {"title": "CRC32 is used to", "1": "Encrypt frames over the network", "2": "Validate certificates in the TLS protocol", "3": "Detect errors in a frame", "4": "Detect and correct errors in a frame", "correct": "3"},
+  {"title": "MAC is", "1": "A unique identifier used to differentiate between devices", "2": "An Encryption Algorithm", "3": "Media Access Control protocol", "4": "MAC and Cheese, of course", "correct": "1"},
+  {"title": "Google was invented in", "1": "2005", "2": "2000", "3": "1998", "4": "2002", "correct": "3"},
+  {"title": "What does the following declaration mean? int (*ptr)[10];", "1": "ptr is array of pointers to 10 integers", "2": "ptr is a pointer to an array of 10 integers", "3": "ptr is an array of 10 integers", "4": "ptr is a pointer to array", "correct": "2"},
+  {"title": "What do the 'c' and 'v' in argv stands for?", "1": "'c' means argument control 'v' means argument vector", "2": "'c' means argument count 'v' means argument vertex", "3": "'c' means argument count 'v' means argument vector", "4": "'c' means argument configuration 'v' means argument visibility", "correct": "3"},
+  {"title": "In which numbering system can the binary number 1011011111000101 be easily converted to?", "1": "Decimal system", "2": "Hexadecimal system", "3": "Octal system", "4": "No need to convert", "correct": "2"},
+  {"title": "Which of the following is not logical operator?", "1": "&", "2": "&&", "3": "||", "4": "!", "correct": "1"},
+  {"title": "If soccer is called football in England, what is American football called in England?", "1": "American football", "2": "Combball", "3": "Handball", "4": "Touchdown", "correct":  "1"},
+  {"title": "What is the largest country in the world?", "1": "Russia", "2": "Canada", "3": "China", "4": "United States", "correct":  "1"},
+  {"title": "What is the 100th digit of Pi?", "1": "9", "2": "4", "3": "7", "4": "2", "correct":  "1"},
+  {"title": "What year did World War I begin?", "1": "1914", "2": "1905", "3": "1919", "4": "1925", "correct": "1"},
+  {"title": "In what year did the Wall Street Crash take place?", "1": "1929", "2": "1932", "3": "1930", "4": "1925", "correct": "1"},
+  {"title": "How many legs is it biologically impossible for a centipede to have?", "1": "100", "2": "26", "3": "50", "4": "74", "correct": "1"},
+  {"title": "What is the molecular formula of Ozone?", "1": "O3", "2": "C6H2O6", "3": "N2O", "4": "SO4", "correct": "1"},
+  {"title": "Which movie contains the quote, 'Say hello to my little friend!'?", "1": "Scarface", "2": "Reservoir Dogs", "3": "Heat", "4": "Goodfellas", "correct": "1"},
+  {"title": "Who wrote 'Harry Potter'?", "1": "J.K. Rowling", "2": "J.R.R. Tolkien", "3": "Terry Pratchett", "4": "Daniel Radcliffe", "correct": "1"}
+]
